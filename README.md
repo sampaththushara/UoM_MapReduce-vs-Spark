@@ -1,8 +1,10 @@
 # UoM_MapReduce-vs-Spark
 Compare the pros and cons of MapReduce and Spark
 
-1. Introduction - Hadoop MapReduce & Spark
+1. Introduction - Hadoop MapReduce
 2. Introduction - Spark
+![MapReduce](https://github.com/sampaththushara/UoM_MapReduce-vs-Spark/blob/main/MapReduce/Introduction.JPG)
+![MapReduce](https://github.com/sampaththushara/UoM_MapReduce-vs-Spark/blob/main/MapReduce/features.JPG)
 3. Pros and Cons of MapReduce and Spark
 [![Watch the video]([[[https://avatars.githubusercontent.com/u/122713565?s=40&v=4](https://youtu.be/22optzdNZGs?t=7)](https://youtu.be/22optzdNZGs?t=7)])](https://youtu.be/22optzdNZGs?t=7)
 6. Create EMR and connect using SSL
@@ -16,5 +18,4 @@ Compare the pros and cons of MapReduce and Spark
 ![Connect to Spark](https://github.com/sampaththushara/UoM_MapReduce-vs-Spark/blob/main/Spark/connecttospark.JPG)
 
 8. Compare Results
-
-
+![MapReduce](https://github.com/sampaththushara/UoM_MapReduce-vs-Spark/blob/main/MapReduce/Results.JPG)
