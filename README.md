@@ -3,11 +3,12 @@ Compare the pros and cons of MapReduce and Spark
 
 1. Introduction - Hadoop MapReduce & Spark
 2. Introduction - Spark
-3. ![Introduction](https://www.youtube.com/watch?v=22optzdNZGs) - Pros and Cons of MapReduce and Spark
-5. Create EMR and connect using SSL
-6. Create s3 bucket and upload data
-7. Run Hive Query in MapReduce
-8. Run Spark SQL
+3. Pros and Cons of MapReduce and Spark
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+6. Create EMR and connect using SSL
+7. Create s3 bucket and upload data
+8. Run Hive Query in MapReduce
+9. Run Spark SQL
 
 ![Connect to Spark](https://github.com/sampaththushara/UoM_MapReduce-vs-Spark/blob/main/Spark/connecttospark.JPG)
 
