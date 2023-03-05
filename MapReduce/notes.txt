@@ -40,7 +40,7 @@ STORED AS TEXTFILE
 LOCATION 's3://aws-logs-187519391456-us-east-1/input'
 TBLPROPERTIES("skip.header.line.count"="1");
 
-SELECT Year, avg((CarrierDelay /ArrDelay)*100) from Flights_hive_tbl GROUP BY Year
+SELECT Year, avg((CarrierDelay /ArrDelay)*100) from Flights_hive_tbl GROUP BY Year;
 SELECT Year, avg((NASDelay /ArrDelay)*100) from Flights_hive_tbl GROUP BY Year;
 SELECT Year, avg((WeatherDelay /ArrDelay)*100) from Flights_hive_tbl GROUP BY Year;
 SELECT Year, avg((LateAircraftDelay /ArrDelay)*100) from Flights_hive_tbl GROUP BY Year;
