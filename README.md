@@ -9,7 +9,7 @@ Compare the pros and cons of MapReduce and Spark
 6. Run Hive Query in MapReduce
 7. Run Spark SQL
 
-[Connect to Spark] (https://github.com/sampaththushara/UoM_MapReduce-vs-Spark/blob/main/Spark/connecttospark.JPG)
+![Connect to Spark] (https://github.com/sampaththushara/UoM_MapReduce-vs-Spark/blob/main/Spark/connecttospark.JPG)
 
 8. Compare Results
 
