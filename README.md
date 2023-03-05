@@ -13,9 +13,13 @@ Compare the pros and cons of MapReduce and Spark
 
 8. Create s3 bucket and upload data
 9. Run Hive Query in MapReduce
+
+![Hive Query](https://github.com/sampaththushara/UoM_MapReduce-vs-Spark/blob/main/MapReduce/Query/1.JPG)
+
 10. Run Spark SQL
 
 ![Connect to Spark](https://github.com/sampaththushara/UoM_MapReduce-vs-Spark/blob/main/Spark/connecttospark.JPG)
+![Spark Query](https://github.com/sampaththushara/UoM_MapReduce-vs-Spark/blob/main/Spark/Query/1.JPG)
 
 8. Compare Results
 ![MapReduce](https://github.com/sampaththushara/UoM_MapReduce-vs-Spark/blob/main/MapReduce/Results.JPG)
