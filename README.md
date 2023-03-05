@@ -9,3 +9,6 @@ Compare the pros and cons of MapReduce and Spark
 6. Run Hive Query in MapReduce
 7. Run Spark SQL
 8. Compare Results
+
+
+https://www.youtube.com/watch?v=22optzdNZGs
