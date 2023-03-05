@@ -1,3 +1,7 @@
+CREATE SCHEMA mapreduce;
+SHOW DATABASES;
+USE mapreduce;
+
 CREATE EXTERNAL TABLE Flights_hive_tbl
 (
 Index int,
